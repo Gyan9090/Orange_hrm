@@ -1,2 +1,3 @@
 # Orange_hrm
-Thsis is my first Repository
+This is my first Repository
+Author= Gyan
